@@ -1,0 +1,36 @@
+1. Menggunakan UPS agar saat listrik mati mendadak terdapat daya listrik cadangan.
+  Stabilizer untuk menjaga tegangan listrik tetap stabil
+2. - CPU
+  - RAM
+  - HDD/SDD
+  - MOtherboard
+  - PSU
+  - Network INterface
+  - Cooler
+3. Windows = cmd -> winver
+  Linux = terminal -> cat /etc/os-release
+4. Ya, segera perbaiki kipas heatsink prosesor yang tidak berputar. dampaknya overheat cpu, komputer mendadak mati, kerusakan kardware
+5. IPMI (Intelegent Platform Management Interface) bekerja melalalui BMC yang terintegrasi pada mobo
+6. OS yang kode sumbernya terseda unuk umum dan dapat digunakan, dipelajari, diubah serta didistribuusikan secara bebas. cont. LInux
+7.a. Download file wordpress
+  b. Buat database di mysql
+  c. Konfigurasi wp-config.php
+  d. Selesaikan instalasi di browser
+8.-Update rutin
+  - Backupdata
+  - pemantauan log
+  - menjaga keamanan
+  - pengecekan hardware
+9.a. Masuk ke proxmox
+  b. Pilih node
+  c. Pilih lokal
+  d. Backup
+  e. restore
+  f. atur konfigurasi
+  g. Jalankan
+10.a. Masuk ke proxmox
+  b. Pilih VM
+  c. Backup
+  d. Backup now
+  e. Pilih storage
+  f. Jalankan
